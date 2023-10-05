@@ -1,4 +1,5 @@
 //Definição da função que calcula o dano em combate
+//Arma e dano do heroi
 function calcularDano(tipoItem, dano) {
     if (tipoItem.toLowerCase() === 'arma') {
       return dano * 2;  // Dano dobrado para arma
