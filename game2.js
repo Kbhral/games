@@ -1,4 +1,4 @@
-//movimentação do personagem
+//movimentação do personagem 
 function simularJornada(posicaoInicial, totalPassos) {
     let posicaoAtual = posicaoInicial;
   
